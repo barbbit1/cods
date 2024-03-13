@@ -1,0 +1,25 @@
+*{
+    margin: 0%; padding: 0%; box-sizing: border-box;
+}
+ body{ background-color: aquamarine;}
+
+ form input,
+ form label
+  { 
+    display: block;
+     text-align: center;
+      margin: 1rem auto;
+    font-size: 2.2rem;}
+
+    .submit-button{
+        text-align: center;}
+         
+
+form button{font-size: 2.2rem; 
+    cursor: pointer;
+border: none; 
+ border-radius: 0.5rem;
+ width: 10%;}
+
+
+
